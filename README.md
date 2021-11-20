@@ -1,11 +1,11 @@
 # SilverSwap Smart Contracts
 
 ## Install & Deploy
-yarn install
+yarn install  
 yarn hardhat deploy
 
 # Deployed Contract Locations
-Deployed on Cronos Testnet
+Deployed on Cronos Testnet  
 Verified at https://testnet.bscscan.com/
 * "SilverForwarder" at 0x891b363AC490Ed7bd9b36378028f46eC857d2139
 * "Multicall2" at 0x09Ea89B88eD9De6bC40565ded88e25ddcA4909eb
