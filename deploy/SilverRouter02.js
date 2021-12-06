@@ -3,7 +3,9 @@ module.exports = async function ({ getNamedAccounts, deployments }) {
 
   const { deployer } = await getNamedAccounts();
 
-  let wethAddress = "0x5C7F8A570d578ED84E63fdFA7b1eE72dEae1AE23"; 
+  let wethAddress = "0xDd7FBd7e655DE4B8eccb2B3254F6B69B569F0A9a"; // This is for testnet
+  // WCRO is 0x5C7F8A570d578ED84E63fdFA7b1eE72dEae1AE23
+  // WTCRO is 
   // Actually.. Wrapped BNB or CRO
   // https://testnet.bscscan.com/address/0xae13d989dac2f0debff460ac112a837c89baa7cd
   // https://cronos.crypto.org/explorer/address/0x5C7F8A570d578ED84E63fdFA7b1eE72dEae1AE23

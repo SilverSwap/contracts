@@ -24,4 +24,5 @@ Test Tokens Created:
 Wrapped Utility Gas Token (ERC20 Version):
 * "WMATIC" on Mumbai Testnet at 0x9c3c9283d3e44854697cd22d3faa240cfb032889
 * “WBNB” on BSC Testnet at 0xae13d989dac2f0debff460ac112a837c89baa7cd
-* “WCRO” on Cronos Testnet at 0x5C7F8A570d578ED84E63fdFA7b1eE72dEae1AE23
+* “WCRO” on Cronos Mainnet at 0x5C7F8A570d578ED84E63fdFA7b1eE72dEae1AE23
+* “WTCRO” on Cronos Testnet at 0xDd7FBd7e655DE4B8eccb2B3254F6B69B569F0A9a
