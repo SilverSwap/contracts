@@ -13,7 +13,8 @@ Verified at https://testnet.bscscan.com/
 * "SilverDistributor" at [0x786E8C2879E0D07F2F656601522D21959077e44d](https://testnet.bscscan.com/address/0x786E8C2879E0D07F2F656601522D21959077e44d#code)
 * "SilverFactory" at [0xD1DfeC22D2577aE722b8ed3b5B05472e3479FA26](https://testnet.bscscan.com/address/0xD1DfeC22D2577aE722b8ed3b5B05472e3479FA26#code)
 * "SilverLocker" at [0x5afb450C31941d4340f30286b7D4b84661527104](https://testnet.bscscan.com/address/0x5afb450C31941d4340f30286b7D4b84661527104#code)
-* "SilverRouter02" at [0x4F21d1098D82E12f28545Fe2DDb9c3BBEd0B4cf6](https://testnet.bscscan.com/address/0x4F21d1098D82E12f28545Fe2DDb9c3BBEd0B4cf6#code)
+* "SilverRouter02 (Mainnet use, launched on nonce 6)" at [0x4F21d1098D82E12f28545Fe2DDb9c3BBEd0B4cf6](https://testnet.bscscan.com/address/0x4F21d1098D82E12f28545Fe2DDb9c3BBEd0B4cf6#code)
+* "SilverRouter02 (Testnet use, launched on nonce 16)" at [0x08cA22a04df619e0990495181B434a9674528121](https://testnet.bscscan.com/address/0x08cA22a04df619e0990495181B434a9674528121#code)
 * "Timelock" at [0x5F612DA005897AAAd1D6190832250a6F41Dc7eA1](https://testnet.bscscan.com/address/0x5F612DA005897AAAd1D6190832250a6F41Dc7eA1#code)
 
 
